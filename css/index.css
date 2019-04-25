@@ -1,0 +1,88 @@
+header img {
+    height: 80px;
+    margin-left: 40px;
+}
+body {
+   
+    font-family: sans-serif;
+   
+}
+
+main {
+    color: white;
+}
+
+header {
+    background-color: black;
+    position: unset;
+    height: 90px;
+    width: 100%;
+    display: inline-block;
+
+    
+}
+header img{
+    margin-top: 3px;
+}
+
+header * {
+    display: inline;
+}
+
+#mt{
+    width: 100%;
+    height: 20%;
+}
+
+
+
+
+header li {
+    margin: 30px;
+    font-weight: bold;
+}
+
+header li a {
+    color: white;
+    text-decoration: none;
+    margin-top: 10%;
+}
+nav{
+    margin-top: -3%;
+    text-align: center;
+}
+footer{
+    margin-top: 0;
+}
+#debut{
+height: 100;
+}
+.form-inline{
+    margin-left: 12%;
+    height: 2em;
+}
+.col-md-3{
+ font-weight: bold;
+ margin-bottom: 2%;   
+}
+.card{
+    border-color: blue;
+}
+#wk{
+    border-radius: 100%;
+}
+#cli{
+    margin-bottom: 10%;
+}
+.dd{
+    {
+ font-weight: bold;
+ margin-bottom: 2%;   
+}
+}
+#equipe{
+    width: 100%;
+}
+#divi{
+    background-image: url('admin.jpg');
+}
